@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/francis" target="blank"><img src="https://img.shields.io/twitter/follow/francis?logo=twitter&style=for-the-badge" alt="francis" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,Bootstrap & Jquery**
+- 🌱 I’m currently learning **HTML,CSS,BOOTSTRAP,WORDPRESS & PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Francis561](https://github.com/Francis561)
 
