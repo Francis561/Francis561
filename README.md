@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/francis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/francis turinayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis turinayo" height="30" width="40" /></a>
+<a href="https://twitter.com/_dev_francis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francis-turinayo-437995168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis turinayo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
