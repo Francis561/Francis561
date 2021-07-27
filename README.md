@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/francis" target="blank"><img src="https://img.shields.io/twitter/follow/francis?logo=twitter&style=for-the-badge" alt="francis" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,BOOTSTRAP,WORDPRESS & PHP**
+- 🌱 I’m currently learning **HTML,CSS,SALESFORCE MARKETING CLOUD, AND EMAIL DEVELOPMENT **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Francis561](https://github.com/Francis561)
 
-- 💬 Ask me about **html,css,bootstrap**
+- 💬 Ask me about **Email Design, Email Campaigns, Landing Pages and Web Development,**
 
 - 📫 How to reach me **turinayof@gmail.com**
 
-- ⚡ Fun fact **I'm good at offering solutions**
+- ⚡ Fun fact **I'm good at offering solutions and interacting with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
