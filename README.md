@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Turinayo</h1>
-<h3 align="center">A very  passionate Email developer</h3>
+<h3 align="center">A very  passionate FrontEnd developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francis561&label=Profile%20views&color=0e75b6&style=flat" alt="francis561" /> </p>
 
